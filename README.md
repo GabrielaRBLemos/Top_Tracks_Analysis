@@ -2,7 +2,7 @@
 
 ![Spotify Badge](https://img.shields.io/badge/made_with-spotify-%231DB954?logo=spotify&logoColor=white) ![Python Badge](https://img.shields.io/badge/made_with-python-%233776AB?logo=python&logoColor=white) ![Jupyter Badge](https://img.shields.io/badge/made_with-jupyter-%23F37626?logo=jupyter&logoColor=white)
 
-This project analyzes the **Top Tracks of the Billboard Hot 100** from 2019 to 2023, using **Spotify** playlists and data extracted via **Choosic**, a music analytics tool and [**LyricsGenius**](https://github.com/johnwmillr/LyricsGenius), a Python library that interacts with the Genius API. The goal is to explore the characteristics of the most popular songs during this period.
+This project analyzes the **Top Tracks of the Billboard Hot 100** from 2019 to 2023, using **Spotify** playlists and data extracted via [**Choosic**](https://www.chosic.com/), a music analytics tool and [**LyricsGenius**](https://github.com/johnwmillr/LyricsGenius), a Python library that interacts with the Genius API. The goal is to explore the characteristics of the most popular songs during this period.
 
 ## Business Problem
 
