@@ -13,7 +13,6 @@ Music tastes evolve over time, influenced by cultural shifts, technological adva
 #### Music Identity
 
 - **Dominant Genres**: Analyzing which genres are most prevalent and how their dominance has shifted over the years.
-- **Key Tracking**: Identifying the most commonly used musical keys.
 - **BPM Trends**: Investigating the tempo trends (e.g., fast vs. slow songs) change year over year.
 - **Happiness Trends**: Tracking how the overall "happiness" of songs has evolved over time.
 - **Temporal Trends**: Are older songs making a comeback, or is the list dominated by new hits?
@@ -33,22 +32,22 @@ Music tastes evolve over time, influenced by cultural shifts, technological adva
 
 The names of the 100 most popular songs were extracted from **Billboard Hot 100** songs from 2019 to 2023. Via Spotify playlists made by me, **Choosic** was used to gather enriched metadata for each track:
 
-  - **Song Title**
-  - **Artist(s)**
-  - **Popularity Metrics**
-  - **BPM (Beats Per Minute)** and **Time Signature**
-  - **Genres** and **Parent Genres**
-  - **Album Name** and **Album Release Date**
-  - **Album Label**
-  - **Danceability**
-  - **Energy Level**
-  - **Acousticness**
-  - **Instrumentalness**
-  - **Happiness**
-  - **Speechiness**
-  - **Loudness (dB)**
-  - **Key** and **Camelot Key**
-  - **ISRC (International Standard Recording Code)**
+- **Song Title**
+- **Artist(s)**
+- **Popularity Metrics**
+- **BPM (Beats Per Minute)** and **Time Signature**
+- **Genres** and **Parent Genres**
+- **Album Name** and **Album Release Date**
+- **Album Label**
+- **Danceability**
+- **Energy Level**
+- **Acousticness**
+- **Instrumentalness**
+- **Happiness**
+- **Speechiness**
+- **Loudness (dB)**
+- **Key** and **Camelot Key**
+- **ISRC (International Standard Recording Code)**
 
 Additionally, **LyricsGenius** provided the **lyrics** for each track.
 
